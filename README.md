@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rohan2208
+- 👋 Hi, I’m Rohan
 - 👀 I’m interested in Making my git look good :v
 - 🌱 I’m currently learning Competive Coding
 - 💞️ I’m looking to collaborate on whatever I can
