@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rohan
 - 👀 I’m interested in Making my git look good :v
-- 🌱 I’m currently learning Competive Coding
+- 🌱 I’m currently learning Competitive Coding
 - 💞️ I’m looking to collaborate on whatever I can
 - 📫 How to reach me ...
 
